@@ -3,8 +3,7 @@ require 'thread'
 require 'redis'
 require 'json'
 require 'erb'
-require 'pry'
-require 'pry-debugger'
+
 
 module ChatDemo
   class ChatBackend
