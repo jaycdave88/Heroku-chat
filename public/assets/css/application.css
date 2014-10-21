@@ -1,4 +1,28 @@
+.page-header{
+}
+
+.container{
+	width:100%;
+	border:2px solid black;
+	border-radius: 5px;
+
+}
+
+.jumbotron{
+background-color: red;
+font-size: 25px;
+text-align: center;
+margin: -10% 0% -10% 0%;
+font-family: helvetica;
+}
+
 #chat-text {
-  overflow: auto;
-  height: 500px;
+border: 1px solid black;
+width: 100%;
+max-height: 250px;
+overflow: scroll;
+}
+
+.panel-heading{
+	background-color: gainsboro;
 }
