@@ -1,4 +1,4 @@
-.page-header{
+/*.page-header{
 }
 
 .container{
@@ -6,13 +6,12 @@
 	border:2px solid black;
 	border-radius: 5px;
 
-}
+}*/
 
 .jumbotron{
-background-color: red;
+background: #red;
 font-size: 25px;
 text-align: center;
-margin: -10% 0% -10% 0%;
 font-family: helvetica;
 }
 
@@ -23,6 +22,6 @@ max-height: 250px;
 overflow: scroll;
 }
 
-.panel-heading{
+/*.panel-heading{
 	background-color: gainsboro;
-}
+}*/
